@@ -2,7 +2,7 @@
 	"name": "tinymce",
       "main":["tinymce.js",
 	"themes/modern/theme.js"],
-  "version": "1.0e",
+  "version": "1.0.1e",
 	"description": "Web based JavaScript HTML WYSIWYG editor control.",
 	"license": "LGPL-2.1",
 	"keywords": [
