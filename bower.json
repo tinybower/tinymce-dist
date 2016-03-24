@@ -1,12 +1,8 @@
 {
 	"name": "tinymce",
-     "main":["tinymce.js",
-	"themes/modern/theme.js",
-	"skins/lightgray/skin.min.css",
-	"skins/lightgray/content.min.css",
-	"skins/lightgray/fonts/tinymce.woff",
-	"skins/lightgray/content.min.css",
-	"skins/lightgray/fonts/tinymce.ttf"],
+      "main":["tinymce.js",
+	"themes/modern/theme.js"],
+  "version": "1.0e",
 	"description": "Web based JavaScript HTML WYSIWYG editor control.",
 	"license": "LGPL-2.1",
 	"keywords": [
